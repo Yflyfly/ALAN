@@ -1,5 +1,5 @@
 # ALAN
-requirement
+requirement \n
 python3.6+
 tensorflow-gpu==2.3.0
 transformers==3.2.0
