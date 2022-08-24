@@ -1,4 +1,5 @@
 # ALAN
+requirements
 
 # train
 python train.py
